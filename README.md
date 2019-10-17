@@ -1,18 +1,11 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# ✅ Awesome: Todo List
 
-### Goal: Build a Simple Todo List
+![item list]()
 
-### How to submit your code for review:
+### Tech Used: HTML5, CSS3, Javascript
+Here I have a completely responsive Todo List. This Todo list allows user to input task/items that they want to complete.  They will then be able to cross completed items of.  They than can chooses to clear the completed items and then clear the complete list. 
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+
 
 Example:
 ```
